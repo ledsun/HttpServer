@@ -1,0 +1,52 @@
+D:\Project\HttpServer\HttpServer\HttpServer\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\HttpServer\HttpServer\HttpServer\bin\Debug\HttpServer.exe
+D:\Project\HttpServer\HttpServer\HttpServer\bin\Debug\HttpServer.pdb
+D:\Project\HttpServer\HttpServer\HttpServer\obj\Debug\HttpServer.exe
+D:\Project\HttpServer\HttpServer\HttpServer\obj\Debug\HttpServer.pdb
+D:\Project\HttpServer\HttpServer\HttpServer\bin\Debug\HttpServer.exe.config
+D:\Project\HttpServer\HttpServer\HttpServer\obj\Debug\HttpServer.csproj.GenerateResource.Cache
+D:\workspace\HttpServer\HttpServer\obj\Debug\ResolveAssemblyReference.cache
+D:\workspace\HttpServer\HttpServer\obj\Debug\HttpServer.Resources.ErrorFilePaths.resources
+D:\workspace\HttpServer\HttpServer\obj\Debug\HttpServer.Resources.ErrorMessages.resources
+D:\workspace\HttpServer\HttpServer\obj\Debug\HttpServer.Resources.ErrorStatusDescription.resources
+D:\workspace\HttpServer\HttpServer\obj\Debug\HttpServer.Resources.LogMessage.resources
+D:\workspace\HttpServer\HttpServer\obj\Debug\HttpServer.csproj.GenerateResource.Cache
+D:\workspace\HttpServer\HttpServer\obj\Debug\HttpServer.TrustInfo.xml
+D:\workspace\HttpServer\HttpServer\obj\Debug\HttpServer.exe.manifest
+D:\workspace\HttpServer\HttpServer\obj\Debug\HttpServer.exe
+D:\workspace\HttpServer\HttpServer\obj\Debug\HttpServer.pdb
+D:\workspace\HttpServer\HttpServer\bin\Debug\Config\Log.config
+D:\workspace\HttpServer\HttpServer\bin\Debug\HttpServer.exe.config
+D:\workspace\HttpServer\HttpServer\bin\Debug\HttpServer.exe.manifest
+D:\workspace\HttpServer\HttpServer\bin\Debug\HttpServer.application
+D:\workspace\HttpServer\HttpServer\bin\Debug\HttpServer.exe
+D:\workspace\HttpServer\HttpServer\bin\Debug\HttpServer.pdb
+D:\workspace\HttpServer\HttpServer\bin\Debug\log4net.dll
+D:\workspace\HttpServer\HttpServer\obj\Debug\HttpServer.application
+C:\Documents and Settings\yuki.ishida\デスクトップ\HttpServer\HttpServer\HttpServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yuki.ishida\デスクトップ\HttpServer\HttpServer\HttpServer\obj\Debug\HttpServer.Resources.ErrorFilePaths.resources
+C:\Documents and Settings\yuki.ishida\デスクトップ\HttpServer\HttpServer\HttpServer\obj\Debug\HttpServer.Resources.ErrorMessages.resources
+C:\Documents and Settings\yuki.ishida\デスクトップ\HttpServer\HttpServer\HttpServer\obj\Debug\HttpServer.Resources.ErrorStatusDescription.resources
+C:\Documents and Settings\yuki.ishida\デスクトップ\HttpServer\HttpServer\HttpServer\obj\Debug\HttpServer.Resources.LogMessage.resources
+C:\Documents and Settings\yuki.ishida\デスクトップ\HttpServer\HttpServer\HttpServer\obj\Debug\HttpServer.csproj.GenerateResource.Cache
+C:\Documents and Settings\yuki.ishida\デスクトップ\HttpServer\HttpServer\HttpServer\obj\Debug\HttpServer.exe
+C:\Documents and Settings\yuki.ishida\デスクトップ\HttpServer\HttpServer\HttpServer\obj\Debug\HttpServer.pdb
+D:\Project\HttpServer\HttpServer\HttpServer\obj\Debug\HttpServer.Resources.ErrorFilePaths.resources
+D:\Project\HttpServer\HttpServer\HttpServer\obj\Debug\HttpServer.Resources.ErrorMessages.resources
+D:\Project\HttpServer\HttpServer\HttpServer\obj\Debug\HttpServer.Resources.ErrorStatusDescription.resources
+D:\Project\HttpServer\HttpServer\HttpServer\obj\Debug\HttpServer.Resources.LogMessage.resources
+D:\Project\HttpServer\HttpServer\HttpServer\bin\Debug\Config\Log.config
+D:\Project\HttpServer\HttpServer\HttpServer\bin\Debug\log4net.dll
+D:\Project\HttpServer\HttpServer\bin\Debug\Config\Log.config
+D:\Project\HttpServer\HttpServer\bin\Debug\HttpServer.exe.config
+D:\Project\HttpServer\HttpServer\bin\Debug\HttpServer.exe
+D:\Project\HttpServer\HttpServer\bin\Debug\HttpServer.pdb
+D:\Project\HttpServer\HttpServer\bin\Debug\log4net.dll
+D:\Project\HttpServer\HttpServer\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\HttpServer\HttpServer\obj\Debug\HttpServer.Resources.ErrorFilePaths.resources
+D:\Project\HttpServer\HttpServer\obj\Debug\HttpServer.Resources.ErrorMessages.resources
+D:\Project\HttpServer\HttpServer\obj\Debug\HttpServer.Resources.ErrorStatusDescription.resources
+D:\Project\HttpServer\HttpServer\obj\Debug\HttpServer.Resources.LogMessage.resources
+D:\Project\HttpServer\HttpServer\obj\Debug\HttpServer.csproj.GenerateResource.Cache
+D:\Project\HttpServer\HttpServer\obj\Debug\HttpServer.exe
+D:\Project\HttpServer\HttpServer\obj\Debug\HttpServer.pdb
